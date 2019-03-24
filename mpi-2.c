@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <math.h>
 
-#define LIMIT     250000000    /* Increase this to find more primes */
+#define LIMIT     2500000    /* Increase this to find more primes */
 #define FIRST     0           /* Rank of first task */
 
 int isprime(int n) {
