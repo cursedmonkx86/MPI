@@ -19,4 +19,4 @@ To execute the program:
 
 mpiexec -n {number of processes} ./test
 
-number of processes either 4 or 8 or factorial of 4. Ignore {}
+number of processes either 4 or 8. Ignore {}
