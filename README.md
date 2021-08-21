@@ -1,5 +1,5 @@
 # MPI
-Usage of MPI in HPC
+Usage of MPI in HPC during C-DAC certification training
 
 mpi-2.c is MPI program in C for calculating biggest prime number and number of prime numbers between 0 to largest number
 
